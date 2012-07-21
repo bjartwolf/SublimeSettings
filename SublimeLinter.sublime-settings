@@ -1,4 +1,5 @@
-hint_options" :
+{
+    "jshint_options" :
     {
         "adsafe":   false,
         "bitwise":  false,
